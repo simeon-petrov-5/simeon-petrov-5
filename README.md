@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Simeon 🕷️
+### 👋 Hi there, I'm Simeon  🕷️
 
 **I'm a Software Developr based in Sofia, Bulgaria 🇧🇬**
 
@@ -45,10 +45,11 @@ TS
 
 
 <br/>
+<a href="https://github.com/simeon-petrov-5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeon-petrov-5&layout=compact&theme=vue" />
+</a>
+<br/>
 <br/>
 <a href="https://github.com/simeon-petrov-5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simeon-petrov-5&show_icons=true&hide_title=true&count_private=true&theme=vue" />
-</a>
-<a href="https://github.com/simeon-petrov-5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeon-petrov-5&layout=compact&theme=vue" />
 </a>
