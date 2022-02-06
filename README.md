@@ -42,7 +42,7 @@ TS
 🔨 I’m currently working on eCommerse website with Nuxt & Strapi; video platform; video lessons\
 📖 I’m currently learning and/or tinkering with NodeJS, FeatehrsJS, Python\
 📫 You can [reach me](https://www.linkedin.com/in/simeonpetrov5) on LinkedIn\
-💻 Working @ ☄️ [Blubito](https://www.linkedin.com/company/blubito)
+💻 Working @ [Blubito](https://www.linkedin.com/company/blubito)
 
 
 <br/>
