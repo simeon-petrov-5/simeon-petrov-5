@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Simeon  🕷️
+### 👋 Hi there, I'm Simeon 🤖
 
 **I'm a Software Developr based in Sofia, Bulgaria 🇧🇬**
 
